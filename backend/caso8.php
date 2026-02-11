@@ -19,7 +19,7 @@ else {
    $precoapos = $desconto - $precoproduto; 
    echo "Após o desconto o preço foi $precoapos";
 }
-echo 12;
+
 
 
 ?>
